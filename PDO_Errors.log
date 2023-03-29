@@ -1,0 +1,2 @@
+2022-07-03 08:07:42 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4: 352
+2022-07-03 11:07:07 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'syllabus.lessons.lesson_id' in 'on clause': 352
